@@ -1,4 +1,3 @@
-```markdown
 # 🔪 Knifeswx_git's Code Dojo | Царство кода Knifeswx_git  
 *Where neural networks meet rusty C++ magic*  
 *Где нейросети танцуют с ржавым C++*  
@@ -36,7 +35,6 @@ int main() {
     Aqrux_Rust::summonDemons();
     return EXIT_SUCCESS; // lol, as if!
 }
-```
 
 ---
 
@@ -63,4 +61,3 @@ int main() {
 **Current Status | Текущий статус:**  
 `#define LIFE while(true) { code(); drinkCoffee(); }`  
 
-``` 
