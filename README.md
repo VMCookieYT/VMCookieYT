@@ -35,7 +35,7 @@ int main() {
     Aqrux_Rust::summonDemons();
     return EXIT_SUCCESS; // lol, as if!
 }
-
+```
 ---
 
 ## 🚀 **Featured Projects | Избранные проекты**  
