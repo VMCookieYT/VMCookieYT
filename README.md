@@ -1,6 +1,6 @@
 # 🔪 knifeswxgit's Code Cave | Логово кода knifeswxgit  
-*Where AI meets caffeine-powered C++*  
-*Где ИИ встречает C++ на кофейной тяге*  
+*Where AI meets caffeine-powered C++ / im a stup1d*  
+*Где ИИ встречает C++ на кофейной тяге / я долбаеб*  
 
 ![](https://media.giphy.com/media/Lp5wuqMOmLUa6ZACGR/giphy.gif)  
 *(My code compiling process | Процесс компиляции моего кода)*  
@@ -23,7 +23,7 @@
 
 ---
 
-## 💻 **Tech Toolkit | Инструментарий**  
+## 💻 **Tech Toolkit | Тулкиты (Инстурменты)**  
 ```c++
 #include <aqrux_magic>
 
@@ -39,7 +39,7 @@ int main() {
 
 ---
 
-## 🚀 **Main Project | Флагманский проект**  
+## 🚀 **Main Project | Основной проект**  
 ### 🔍 AqruxChecker  
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/knifeswxgit/AqruxChecker)  
 *The ultimate code validator (validates your life choices along the way)*  
